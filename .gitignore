@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+output.wav
+
+# Virtual environment folder (best practice)
+venv/
+.venv/
+env/
+ENV/ 
