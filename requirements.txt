@@ -1,0 +1,9 @@
+pystray
+pynput
+sounddevice
+scipy
+numpy
+openai
+openai-whisper
+python-dotenv
+soundfile 
