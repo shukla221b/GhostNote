@@ -2,7 +2,7 @@
 
 A simple, lightweight Windows tray application for fast, system-wide speech-to-text using OpenAI's Whisper API. Hold a hotkey, speak, release, and have the transcribed text appear anywhere you can type.
 
-![GhostNote Demo](https://place-a-gif-here.com)  
+![GhostNote Demo](https://github.com/shukla221b/GhostNote/blob/main/Demo.gif)  
 
 ---
 
